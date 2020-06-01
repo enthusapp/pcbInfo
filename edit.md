@@ -1,19 +1,7 @@
 # 엔토스 PCB 사이트 편집 방법
 
 ## 편집
-pcb repository 에 저장된 폴더 구조와 동일하게 구성
-
-### 그림 올리기
-그림 파일을 프로젝트 폴더에 복사하고 문서에 경로 링크를 추가
-```
-![그림 설명](그림파일 상대경로)
-```
-
-##### 예시
-`img` 폴더에 `test.png` 파일이 있을 경우,
-```
-![테스트 이미지](img/test.png)
-```
+pcb repository 의 폴더 구조와 동일하게 폴더 및 제품명 사용하여 markdown 문서 작성
 
 ### local Test
 ```
@@ -25,7 +13,7 @@ gitbook serve
 ```
 $ gitbook build
 $ git checkout gh-pages
-$ cp -R ../_book/* . // Windows 환경에서는 파일 브라우져에서 덮어쓰기 사용
+$ copy .\_book\* %cd% /y
 $ git clean -fx _book
 $ git add .
 $ git commit -sm "upload gh-pages"
