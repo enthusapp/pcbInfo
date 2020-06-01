@@ -25,7 +25,7 @@ gitbook serve
 ```
 $ gitbook build
 $ git checkout gh-pages
-$ cp -R ../_book/* . // Windows 환경에서는 파일 브라우져에서 덮어쓰기 사용
+$ copy .\_book\* %cd% /y
 $ git clean -fx _book
 $ git add .
 $ git commit -sm "upload gh-pages"
