@@ -15,15 +15,15 @@ gitbook serve
 ## Publish
 편집 완료 후 사이트로 올리기
 ```
-$ gitbook build
-$ git checkout gh-pages
-$ git pull origin gh-pages
-$ xcopy .\_book\* %cd% /y /s /e
-$ git clean -fx _book
-$ git add .
-$ git commit -sm "upload gh-pages"
-$ git push origin gh-pages
-$ git checkout master
+gitbook build
+git checkout gh-pages
+git pull origin gh-pages
+xcopy .\_book\* %cd% /y /s /e
+git clean -fx _book
+git add .
+git commit -sm "upload gh-pages"
+git push origin gh-pages
+git checkout master
 ```
 
 ## PDF 제작
