@@ -1,4 +1,8 @@
 # 엔토스 PCB 사이트 편집 방법
+## 초기 설정
+```
+gitbook install
+```
 
 ## 편집
 pcb repository 의 폴더 구조와 동일하게 폴더 및 제품명 사용하여 markdown 문서 작성
@@ -13,7 +17,8 @@ gitbook serve
 ```
 $ gitbook build
 $ git checkout gh-pages
-$ copy .\_book\* %cd% /y
+$ git pull origin gh-pages
+$ xcopy .\_book\* %cd% /y /s /e
 $ git clean -fx _book
 $ git add .
 $ git commit -sm "upload gh-pages"
