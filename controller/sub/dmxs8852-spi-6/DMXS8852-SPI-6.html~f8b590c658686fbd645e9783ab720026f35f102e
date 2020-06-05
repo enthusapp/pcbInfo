@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>LFC0165-48FWC · GitBook</title>
+        <title>DMXS8852-SPI-6 · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -12,24 +12,24 @@
         
         
     
-    <link rel="stylesheet" href="../../../../gitbook/style.css">
+    <link rel="stylesheet" href="../../../gitbook/style.css">
 
     
             
                 
-                <link rel="stylesheet" href="../../../../gitbook/gitbook-plugin-expandable-chapters/expandable-chapters.css">
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-expandable-chapters/expandable-chapters.css">
                 
             
                 
-                <link rel="stylesheet" href="../../../../gitbook/gitbook-plugin-highlight/website.css">
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-highlight/website.css">
                 
             
                 
-                <link rel="stylesheet" href="../../../../gitbook/gitbook-plugin-search/search.css">
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-search/search.css">
                 
             
                 
-                <link rel="stylesheet" href="../../../../gitbook/gitbook-plugin-fontsettings/website.css">
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-fontsettings/website.css">
                 
             
         
@@ -57,11 +57,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../../../gitbook/images/apple-touch-icon-precomposed-152.png">
-    <link rel="shortcut icon" href="../../../../gitbook/images/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../../../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../../../lfr/" />
+    <link rel="next" href="../../connector/README.md" />
     
     
     <link rel="prev" href="../" />
@@ -93,9 +93,9 @@
         
         
     
-        <li class="chapter " data-level="1.1" data-path="../../../../">
+        <li class="chapter " data-level="1.1" data-path="../../../">
             
-                <a href="../../../../">
+                <a href="../../../">
             
                     
                     소개
@@ -106,9 +106,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.2" data-path="../../../">
+        <li class="chapter " data-level="1.2" data-path="../../../flood/">
             
-                <a href="../../../">
+                <a href="../../../flood/">
             
                     
                     FLOOD
@@ -120,9 +120,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.2.1" data-path="../../">
+        <li class="chapter " data-level="1.2.1" data-path="../../../flood/lfc/">
             
-                <a href="../../">
+                <a href="../../../flood/lfc/">
             
                     
                     LFC
@@ -134,9 +134,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.2.1.1" data-path="../">
+        <li class="chapter " data-level="1.2.1.1" data-path="../../../flood/lfc/lfc0165/">
             
-                <a href="../">
+                <a href="../../../flood/lfc/lfc0165/">
             
                     
                     LFC0165
@@ -148,9 +148,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter active" data-level="1.2.1.1.1" data-path="LFC0165-48FWC.html">
+        <li class="chapter " data-level="1.2.1.1.1" data-path="../../../flood/lfc/lfc0165/lfc0165-48fwc/LFC0165-48FWC.html">
             
-                <a href="LFC0165-48FWC.html">
+                <a href="../../../flood/lfc/lfc0165/lfc0165-48fwc/LFC0165-48FWC.html">
             
                     
                     LFC0165-48FWC
@@ -171,9 +171,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.2.2" data-path="../../../lfr/">
+        <li class="chapter " data-level="1.2.2" data-path="../../../flood/lfr/">
             
-                <a href="../../../lfr/">
+                <a href="../../../flood/lfr/">
             
                     
                     LFR
@@ -185,9 +185,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.2.2.1" data-path="../../../lfr/lfr0655/">
+        <li class="chapter " data-level="1.2.2.1" data-path="../../../flood/lfr/lfr0655/">
             
-                <a href="../../../lfr/lfr0655/">
+                <a href="../../../flood/lfr/lfr0655/">
             
                     
                     LFR0655
@@ -199,9 +199,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.2.2.1.1" data-path="../../../lfr/lfr0655/lfr0655-120fwc/LFR0655-120FWC.html">
+        <li class="chapter " data-level="1.2.2.1.1" data-path="../../../flood/lfr/lfr0655/lfr0655-120fwc/LFR0655-120FWC.html">
             
-                <a href="../../../lfr/lfr0655/lfr0655-120fwc/LFR0655-120FWC.html">
+                <a href="../../../flood/lfr/lfr0655/lfr0655-120fwc/LFR0655-120FWC.html">
             
                     
                     LFR0655-120FWC
@@ -227,9 +227,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3" data-path="../../../../display/">
+        <li class="chapter " data-level="1.3" data-path="../../../display/">
             
-                <a href="../../../../display/">
+                <a href="../../../display/">
             
                     
                     DISPLAY
@@ -241,9 +241,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.3.1" data-path="../../../../display/lsb/">
+        <li class="chapter " data-level="1.3.1" data-path="../../../display/lsb/">
             
-                <a href="../../../../display/lsb/">
+                <a href="../../../display/lsb/">
             
                     
                     LSB
@@ -255,9 +255,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.3.1.1" data-path="../../../../display/lsb/lsb0025/">
+        <li class="chapter " data-level="1.3.1.1" data-path="../../../display/lsb/lsb0025/">
             
-                <a href="../../../../display/lsb/lsb0025/">
+                <a href="../../../display/lsb/lsb0025/">
             
                     
                     LSB0025
@@ -269,9 +269,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.3.1.1.1" data-path="../../../../display/lsb/lsb0025/lsb0025-0490-25fwc/LSB0025-0490-25FWC.html">
+        <li class="chapter " data-level="1.3.1.1.1" data-path="../../../display/lsb/lsb0025/lsb0025-0490-25fwc/LSB0025-0490-25FWC.html">
             
-                <a href="../../../../display/lsb/lsb0025/lsb0025-0490-25fwc/LSB0025-0490-25FWC.html">
+                <a href="../../../display/lsb/lsb0025/lsb0025-0490-25fwc/LSB0025-0490-25FWC.html">
             
                     
                     LSB0025-0490-25FWC
@@ -282,9 +282,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.1.1.2" data-path="../../../../display/lsb/lsb0025/lsb0025-0490-25fwd/LSB0025-0490-25FWD.html">
+        <li class="chapter " data-level="1.3.1.1.2" data-path="../../../display/lsb/lsb0025/lsb0025-0490-25fwd/LSB0025-0490-25FWD.html">
             
-                <a href="../../../../display/lsb/lsb0025/lsb0025-0490-25fwd/LSB0025-0490-25FWD.html">
+                <a href="../../../display/lsb/lsb0025/lsb0025-0490-25fwd/LSB0025-0490-25FWD.html">
             
                     
                     LSB0025-0490-25FWD
@@ -310,9 +310,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4" data-path="../../../../controller/">
+        <li class="chapter " data-level="1.4" data-path="../../">
             
-                <a href="../../../../controller/">
+                <a href="../../">
             
                     
                     조명제어장치
@@ -324,9 +324,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.4.1" data-path="../../../../controller/main/">
+        <li class="chapter " data-level="1.4.1" data-path="../../main/README.md">
             
-                <a href="../../../../controller/main/">
+                <span>
             
                     
                     MAIN
@@ -335,30 +335,11 @@
             
 
             
-            <ul class="articles">
-                
-    
-        <li class="chapter " data-level="1.4.1.1" data-path="../../../../controller/main/mfplayer/MFPlayer.html">
-            
-                <a href="../../../../controller/main/mfplayer/MFPlayer.html">
-            
-                    
-                    MFPLAYER
-            
-                </a>
-            
-
-            
         </li>
     
-
-            </ul>
+        <li class="chapter " data-level="1.4.2" data-path="../">
             
-        </li>
-    
-        <li class="chapter " data-level="1.4.2" data-path="../../../../controller/sub/">
-            
-                <a href="../../../../controller/sub/">
+                <a href="../">
             
                     
                     SUB
@@ -370,9 +351,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.4.2.1" data-path="../../../../controller/sub/dmxs8852-spi-6/DMXS8852-SPI-6.html">
+        <li class="chapter active" data-level="1.4.2.1" data-path="DMXS8852-SPI-6.html">
             
-                <a href="../../../../controller/sub/dmxs8852-spi-6/DMXS8852-SPI-6.html">
+                <a href="DMXS8852-SPI-6.html">
             
                     
                     DMXS8852-SPI-6
@@ -388,7 +369,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4.3" data-path="../../../../controller/connector/README.md">
+        <li class="chapter " data-level="1.4.3" data-path="../../connector/README.md">
             
                 <span>
             
@@ -436,7 +417,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="../../../.." >LFC0165-48FWC</a>
+        <a href="../../.." >DMXS8852-SPI-6</a>
     </h1>
 </div>
 
@@ -451,18 +432,18 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="lfc0165-48fwc">LFC0165-48FWC</h1>
-<h2 id="v10-20200327-&#xC2E0;&#xBBFC;&#xC815;">v1.0 2020/03/27 &#xC2E0;&#xBBFC;&#xC815;</h2>
+                                <h1 id="dmxs8852-spi-6">DMXS8852-SPI-6</h1>
+<h2 id="v10-20200605-&#xC2E0;&#xBBFC;&#xC815;">v1.0 2020/06/05 &#xC2E0;&#xBBFC;&#xC815;</h2>
 <h3 id="&#xC0DD;&#xC0B0;-&#xC9C0;&#xC2DC;&#xC11C;-&#xBC88;&#xD638;">&#xC0DD;&#xC0B0; &#xC9C0;&#xC2DC;&#xC11C; &#xBC88;&#xD638;</h3>
 <ul>
 <li>&#xBC1C;&#xC8FC; &#xBC88;&#xD638; : X</li>
-<li>&#xBC88;&#xD638; &#xBBF8;&#xD655;&#xC778;&#xC2DC; &#xC0AC;&#xC720; : &#xAE40;&#xC774;&#xC0AC;&#xB2D8; &#xC694;&#xCCAD;</li>
-<li>&#xC694;&#xCCAD; &#xB2F4;&#xB2F9;&#xC790; : &#xAE40;&#xB450;&#xC12D;</li>
-<li>&#xC694;&#xCCAD;&#xC77C; : 2020/03/25</li>
+<li>&#xBC88;&#xD638; &#xBBF8;&#xD655;&#xC778;&#xC2DC; &#xC0AC;&#xC720; : &#xC601;&#xC885;&#xB3C4; 20pole &#xC2DC;&#xBC94; &#xC0AC;&#xC5C5; test</li>
+<li>&#xC694;&#xCCAD; &#xB2F4;&#xB2F9;&#xC790; : &#xAE40;&#xC8FC;&#xD604;</li>
+<li>&#xC694;&#xCCAD;&#xC77C; : 2020/06/02</li>
 </ul>
 <h3 id="bom-&#xD488;&#xBAA9;&#xCF54;&#xB4DC;">BOM &#xD488;&#xBAA9;&#xCF54;&#xB4DC;</h3>
 <ul>
-<li>H0000563</li>
+<li>H0000581</li>
 </ul>
 <h3 id="drcdesign-rule-check">DRC(Design Rule Check)</h3>
 <ul>
@@ -470,9 +451,8 @@
 </ul>
 <h3 id="&#xD45C;&#xC900;&#xD68C;&#xB85C;">&#xD45C;&#xC900;&#xD68C;&#xB85C;</h3>
 <ul>
-<li>SUB : c1_pwm3ch</li>
-<li>Connector : 20037WR-04 1EA</li>
-<li>Driver : AUR6601 8EA</li>
+<li>SUB : c1_pwm3ch 6EA</li>
+<li>Connector : 20037WR-04 1EA, 20037WR-02 3EA </li>
 </ul>
 
                                 
@@ -501,12 +481,12 @@
 
             
                 
-                <a href="../" class="navigation navigation-prev " aria-label="Previous page: LFC0165">
+                <a href="../" class="navigation navigation-prev " aria-label="Previous page: SUB">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="../../../lfr/" class="navigation navigation-next " aria-label="Next page: LFR">
+                <a href="../../connector/README.md" class="navigation navigation-next " aria-label="Next page: CONNECTOR">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -517,41 +497,41 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"LFC0165-48FWC","level":"1.2.1.1.1","depth":4,"next":{"title":"LFR","level":"1.2.2","depth":2,"path":"flood/lfr/README.md","ref":"flood/lfr/README.md","articles":[{"title":"LFR0655","level":"1.2.2.1","depth":3,"path":"flood/lfr/lfr0655/README.md","ref":"flood/lfr/lfr0655/README.md","articles":[{"title":"LFR0655-120FWC","level":"1.2.2.1.1","depth":4,"path":"flood/lfr/lfr0655/lfr0655-120fwc/LFR0655-120FWC.md","ref":"flood/lfr/lfr0655/lfr0655-120fwc/LFR0655-120FWC.md","articles":[]}]}]},"previous":{"title":"LFC0165","level":"1.2.1.1","depth":3,"path":"flood/lfc/lfc0165/README.md","ref":"flood/lfc/lfc0165/README.md","articles":[{"title":"LFC0165-48FWC","level":"1.2.1.1.1","depth":4,"path":"flood/lfc/lfc0165/lfc0165-48fwc/LFC0165-48FWC.md","ref":"flood/lfc/lfc0165/lfc0165-48fwc/LFC0165-48FWC.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["expandable-chapters"],"pluginsConfig":{"expandable-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"flood/lfc/lfc0165/lfc0165-48fwc/LFC0165-48FWC.md","mtime":"2020-06-05T03:56:59.659Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-06-05T04:06:22.721Z"},"basePath":"../../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"DMXS8852-SPI-6","level":"1.4.2.1","depth":3,"next":{"title":"CONNECTOR","level":"1.4.3","depth":2,"path":"controller/connector/README.md","ref":"controller/connector/README.md","articles":[]},"previous":{"title":"SUB","level":"1.4.2","depth":2,"path":"controller/sub/README.md","ref":"controller/sub/README.md","articles":[{"title":"DMXS8852-SPI-6","level":"1.4.2.1","depth":3,"path":"controller/sub/dmxs8852-spi-6/DMXS8852-SPI-6.md","ref":"controller/sub/dmxs8852-spi-6/DMXS8852-SPI-6.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["expandable-chapters"],"pluginsConfig":{"expandable-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"controller/sub/dmxs8852-spi-6/DMXS8852-SPI-6.md","mtime":"2020-06-05T02:20:15.631Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-06-05T02:31:01.989Z"},"basePath":"../../..","book":{"language":""}});
         });
     </script>
 </div>
 
         
-    <script src="../../../../gitbook/gitbook.js"></script>
-    <script src="../../../../gitbook/theme.js"></script>
+    <script src="../../../gitbook/gitbook.js"></script>
+    <script src="../../../gitbook/theme.js"></script>
     
         
-        <script src="../../../../gitbook/gitbook-plugin-expandable-chapters/expandable-chapters.js"></script>
-        
-    
-        
-        <script src="../../../../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        <script src="../../../gitbook/gitbook-plugin-expandable-chapters/expandable-chapters.js"></script>
         
     
         
-        <script src="../../../../gitbook/gitbook-plugin-search/search.js"></script>
+        <script src="../../../gitbook/gitbook-plugin-search/search-engine.js"></script>
         
     
         
-        <script src="../../../../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        <script src="../../../gitbook/gitbook-plugin-search/search.js"></script>
         
     
         
-        <script src="../../../../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        <script src="../../../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
         
     
         
-        <script src="../../../../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        <script src="../../../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
         
     
         
-        <script src="../../../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        <script src="../../../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
         
     
 

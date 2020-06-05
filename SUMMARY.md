@@ -15,6 +15,7 @@
       * [LSB0025-0490-25FWD](display/lsb/lsb0025/lsb0025-0490-25fwd/LSB0025-0490-25FWD.md)
 * [조명제어장치](controller/README.md)
   * [MAIN](controller/main/README.md)
+   * [MFPLAYER](controller/main/mfplayer/MFPlayer.md)
   * [SUB](controller/sub/README.md)
     * [DMXS8852-SPI-6](controller/sub/dmxs8852-spi-6/DMXS8852-SPI-6.md)
   * [CONNECTOR](controller/connector/README.md)
