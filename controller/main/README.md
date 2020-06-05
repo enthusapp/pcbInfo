@@ -1,1 +1,1 @@
-* [MFPLAYER](MFPLAYER)
+* [MFPLAYER](mfplayer/MFPlayer.md)
