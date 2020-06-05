@@ -1,1 +1,1 @@
-* [lfc0165-48fwc](lfc0165-48fwc.md)
+* [LFC0165-48FWC](lfc0165-48fwc/LFC0165-48FWC.md)
