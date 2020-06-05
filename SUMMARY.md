@@ -17,5 +17,6 @@
   * [MAIN](controller/main/README.md)
    * [MFPLAYER](controller/main/mfplayer/MFPlayer.md)
   * [SUB](controller/sub/README.md)
+    * [DMXS5028-SPI](controller/sub/dmxs5025-spi/DMXS5028-SPI.md)
     * [DMXS8852-SPI-6](controller/sub/dmxs8852-spi-6/DMXS8852-SPI-6.md)
   * [CONNECTOR](controller/connector/README.md)
