@@ -23,3 +23,5 @@
   * [SUB](controller/sub/README.md)
     * [DMXS5028-SPI](controller/sub/dmxs5028-spi/DMXS5028-SPI.md)
     * [DMXS8852-SPI-6](controller/sub/dmxs8852-spi-6/DMXS8852-SPI-6.md)
+    * [C1](controller/sub/c1/C1.md)
+
