@@ -52,6 +52,7 @@
 * [조명제어장치](controller/README.md)
   * [MAIN](controller/main/README.md)
    * [MFPLAYER](controller/main/mfplayer/MFPlayer.md)
+   * [DMXM8852-SPI-6](controller/main/dmxm8852-spi-6/DMXM8852-SPI-6.md)
   * [SUB](controller/sub/README.md)
     * [DMXS5028-SPI](controller/sub/dmxs5028-spi/DMXS5028-SPI.md)
     * [DMXS8852-SPI-6](controller/sub/dmxs8852-spi-6/DMXS8852-SPI-6.md)
