@@ -1,6 +1,7 @@
 # MFPlayer
 
 ## v2.2 2020/06/24 신민정
+[pcb@c0f410e](https://github.com/enthusapp/pcb/commit/c0f410e2a1c698f2a9c8f404d34814829bc1d987)
 
 ### 생산 지시서 번호
 * 발주 번호 : X
@@ -22,6 +23,7 @@
 ----------
 
 ## v2.1 2020/06/09 신민정
+[pcb@d5da512](https://github.com/enthusapp/pcb/commit/d5da51207f136940d31b9ae0844af82c674af939)
 
 ### 생산 지시서 번호
 * 발주 번호 : X
@@ -43,6 +45,7 @@
 ----------
 
 ## v2.0 2020/05/07 신민정
+[pcb@dc8cff5](https://github.com/enthusapp/pcb/commit/dc8cff51fed16175ac7ec183a220bb28f26b0240)
 
 ### 생산 지시서 번호
 * 발주 번호 : X
