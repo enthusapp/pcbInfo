@@ -46,6 +46,8 @@
       * [LFR0655-120FWC](flood/lfr/lfr0655/lfr0655-120fwc/LFR0655-120FWC.md)
 * [DISPLAY](display/README.md)
   * [LSB](display/lsb/README.md)
+    * [LSB0023](display/lsb/lsb0023/README.md)
+      * [LSB0023-0498-20FWD](display/lsb/lsb0023/lsb0023-0498-20fwd/LSB0023-0498-20FWD.md)
     * [LSB0025](display/lsb/lsb0025/README.md)
       * [LSB0025-0490-25FWC](display/lsb/lsb0025/lsb0025-0490-25fwc/LSB0025-0490-25FWC.md)
       * [LSB0025-0490-25FWD](display/lsb/lsb0025/lsb0025-0490-25fwd/LSB0025-0490-25FWD.md)
