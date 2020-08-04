@@ -74,4 +74,5 @@
     * [C1](controller/sub/c1/C1.md)
     * [C2](controller/sub/c2/C2.md)
     * [D1](controller/sub/d1/D1.md)
-
+  * [CONNECTOR](controller/connector/README.md)
+    * [WDMX](controller/connector/wdmx/WDMX.md)
