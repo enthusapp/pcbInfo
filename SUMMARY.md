@@ -67,6 +67,7 @@
       * [LSB0025-0490-25FD](display/lsb/lsb0025/lsb0025-0490-25fd/LSB0025-0490-25FD.md)
       * [LSB0025-0490-25FWC](display/lsb/lsb0025/lsb0025-0490-25fwc/LSB0025-0490-25FWC.md)
       * [LSB0025-0490-25FWD](display/lsb/lsb0025/lsb0025-0490-25fwd/LSB0025-0490-25FWD.md)
+      * [LSB0025-0490-25MD](display/lsb/lsb0025/lsb0025-0490-25md/LSB0025-0490-25MD.md)
     * [LSB0034](display/lsb/lsb0034/README.md)
       * [LSB0034-0490-20FWD](display/lsb/lsb0034/lsb0034-0490-20fwd/LSB0034-0490-20FWD.md)
 * [조명제어장치](controller/README.md)
