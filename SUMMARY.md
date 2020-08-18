@@ -73,6 +73,7 @@
 * [조명제어장치](controller/README.md)
   * [MAIN](controller/main/README.md)
    * [MFPLAYER](controller/main/mfplayer/MFPlayer.md)
+   * [MFPLAYER10](controller/main/mfplayer/MFPlayer10.md)
    * [DMXM8852-SPI-6](controller/main/dmxm8852-spi-6/DMXM8852-SPI-6.md)
    * [OPMASTER10000](controller/main/opmaster10000/OPMASTER10000.md)
   * [SUB](controller/sub/README.md)
