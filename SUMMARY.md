@@ -72,14 +72,10 @@
       * [LSB0034-0490-20FWD](display/lsb/lsb0034/lsb0034-0490-20fwd/LSB0034-0490-20FWD.md)
 * [조명제어장치](controller/README.md)
   * [MAIN](controller/main/README.md)
-<<<<<<< HEAD
    * [DMXM-SPI5-10569](controller/main/dmxm-spi5-10569/DMXM-SPI5-10569.md)
-=======
-   * [MFPLAYER](controller/main/mfplayer/MFPlayer.md)
-   * [MFPLAYER10](controller/main/mfplayer/MFPlayer10.md)
->>>>>>> 1bd4496c4337fb75b705a7fad3b3c82511054b67
    * [DMXM8852-SPI-6](controller/main/dmxm8852-spi-6/DMXM8852-SPI-6.md)
    * [MFPLAYER](controller/main/mfplayer/MFPlayer.md)
+   * [MFPLAYER10](mfplayer/MFPlayer10.md)
    * [OPMASTER10000](controller/main/opmaster10000/OPMASTER10000.md)
   * [SUB](controller/sub/README.md)
     * [DMXS5028-SPI](controller/sub/dmxs5028-spi/DMXS5028-SPI.md)
