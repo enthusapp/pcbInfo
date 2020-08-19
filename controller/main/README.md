@@ -1,3 +1,4 @@
-* [MFPLAYER](mfplayer/MFPlayer.md)
+* [DMXM-SPI5-10569](dmxm-spi5-10569/DMXM-SPI5-10569.md)
 * [DMXM8852-SPI-6](dmxm8852-spi-6/DMXM8852-SPI-6.md)
+* [MFPLAYER](mfplayer/MFPlayer.md)
 * [OPMASTER10000](opmaster10000/OPMASTER10000.md)
