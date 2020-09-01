@@ -85,3 +85,4 @@
     * [D1](controller/sub/d1/D1.md)
   * [CONNECTOR](controller/connector/README.md)
     * [WDMX](controller/connector/wdmx/WDMX.md)
+    * [WDMX MANUAL](controller/connector/wdmx/WDMX-MANUAL.md)
