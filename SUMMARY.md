@@ -57,6 +57,7 @@
     * [LFR0250](flood/lfr/lfr0250/README.md)
       * [LFR0250-36FC](flood/lfr/lfr0250/lfr0250-36fc/LFR0250-36FC.md)
     * [LFR0300](flood/lfr/lfr0300/README.md)
+      * [LFR0300-45FC](flood/lfr/lfr0300/lfr0300-45fc/LFR0300-45FC.md)
       * [LFR0300-48FWC](flood/lfr/lfr0300/lfr0300-48fwc/LFR0300-48FWC.md)
     * [LFR0655](flood/lfr/lfr0655/README.md)
       * [LFR0655-120FWC](flood/lfr/lfr0655/lfr0655-120fwc/LFR0655-120FWC.md)
