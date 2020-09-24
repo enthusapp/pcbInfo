@@ -1,1 +1,2 @@
+* [LPR](lpr)
 * [LSB](lsb)
