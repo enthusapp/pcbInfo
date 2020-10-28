@@ -84,6 +84,8 @@
       * [LSB0025-0490-25MD](display/lsb/lsb0025/lsb0025-0490-25md/LSB0025-0490-25MD.md)
     * [LSB0034](display/lsb/lsb0034/README.md)
       * [LSB0034-0490-20FWD](display/lsb/lsb0034/lsb0034-0490-20fwd/LSB0034-0490-20FWD.md)
+    * [LSB0036](display/lsb/lsb0036/README.md)
+      * [LSB0036-0500-25FD](display/lsb/lsb0036/lsb0036-0500-25fd/LSB0036-0500-25FD.md)
 * [조명제어장치](controller/README.md)
   * [MAIN](controller/main/README.md)
    * [DMXM-SPI5-10569](controller/main/dmxm-spi5-10569/DMXM-SPI5-10569.md)
