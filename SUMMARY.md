@@ -49,6 +49,8 @@
       * [LFC0210-30FD](flood/lfc/lfc0210/lfc0210-30fd/LFC0210-30FD.md)
     * [LFC0229](flood/lfc/lfc0229/README.md)
       * [LFC0229-48FWC](flood/lfc/lfc0229/lfc0229-48fwc/LFC0229-48FWC.md)
+    * [LFC0260](flood/lfc/lfc0260/README.md)
+      * [LFC0260-48FWC](flood/lfc/lfc0260/lfc0260-48fwc/LFC0260-48FWC.md)
   * [LFH](flood/lfh/README.md)
     * [LFH0200](flood/lfh/lfh0200/README.md)
       * [LFH0200-12M](flood/lfh/lfh0200/lfh0200-12m/LFH0200-12M.md)
