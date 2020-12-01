@@ -1,1 +1,2 @@
-* [LAC0169-9FD](lac0169-9fd)
+* [LAC0169](lac0169)
+* [LAC0169NG](lac0169ng)
