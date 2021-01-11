@@ -1,7 +1,28 @@
 # MFPlayer10 (Media Façade Player 10")
 
+## v1.1 2021/01/11 신민정
+
+### 생산 지시서 번호
+* 발주 번호 : X
+* 번호 미확인시 사유 : 생산 예정
+* 요청 담당자 : 김주현
+* 요청일 : 2021/01/11
+
+### BOM 품목코드
+* H0000625
+* H0000604
+
+### DRC(Design Rule Check)
+* 확인
+
+### 수정 내역
+* FPGA - DMX buffer 저항 추가(499 Ω, 2012)
+* 전원 입력 Bridge diode 병렬 회로 추가
+* CK16M EMI커패시터 추가(47pF/50V)
+
+----------
+
 ## v1.0 2020/10/22 신민정
-[pcb@c0f410e](https://github.com/enthusapp/pcb/commit/c0f410e2a1c698f2a9c8f404d34814829bc1d987)
 
 ### 생산 지시서 번호
 * 발주 번호 : X
