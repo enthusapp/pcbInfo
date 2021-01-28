@@ -204,6 +204,7 @@
   * [CONNECTOR](controller/connector/README.md)
     * [CN5019](controller/connector/cn5019/CN5019.md)
     * [CN5019-FUSE](controller/connector/cn5019-fuse/CN5019-FUSE.md)
+    * [PROTOCOL-ADAPTER](controller/connector/protocol-adapter/PROTOCOL-ADAPTER.md)
     * [SENSOR6540-HUB](controller/connector/sensor6540-hub/SENSOR6540-HUB.md)
     * [WDMX MANUAL](controller/connector/wdmx/WDMX-MANUAL.md)
     * [WDMX](controller/connector/wdmx/WDMX.md)
