@@ -110,6 +110,8 @@
       * [LPR0040-1MD](display/lpr/lpr0040/lpr0040-1md/LPR0040-1MD.md)
     * [LPR0080](display/lpr/lpr0080/README.md)
       * [LPR0080-8FC](display/lpr/lpr0080/lpr0080-8fc/LPR0080-8FC.md)
+    * [LPR0264](display/lpr/lpr0264/README.md)
+      * [LPR0264-144FC](display/lpr/lpr0264/lpr0264-144fc/LPR0264-144FC.md)
   * [LSB](display/lsb/README.md)
     * [LSB0017](display/lsb/lsb0017/README.md)
       * [LSB0017-0498-30FD](display/lsb/lsb0017/lsb0017-0498-30fd/LSB0017-0498-30FD.md)
