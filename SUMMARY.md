@@ -135,6 +135,8 @@
     * [LSB0034](display/lsb/lsb0034/README.md)
       * [LSB0034-0098-5FWW](display/lsb/lsb0034/lsb0034-0098-5fww/LSB0034-0098-5FWW.md)
       * [LSB0034-0490-20FWD](display/lsb/lsb0034/lsb0034-0490-20fwd/LSB0034-0490-20FWD.md)
+      * [LSB0034-0490-25FDW](display/lsb/lsb0034/lsb0034-0490-25fdw/LSB0034-0490-25FDW.md)
+      * [LSB0034-0490-25FW](display/lsb/lsb0034/lsb0034-0490-25fw/LSB0034-0490-25FW.md)
       * [LSB0034-0490-25FWW](display/lsb/lsb0034/lsb0034-0490-25fww/LSB0034-0490-25FWW.md)
     * [LSB0036](display/lsb/lsb0036/README.md)
       * [LSB0036-0500-25FC](display/lsb/lsb0036/lsb0036-0500-25fc/LSB0036-0500-25FC.md)
