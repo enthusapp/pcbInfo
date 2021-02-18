@@ -4,6 +4,9 @@
 gitbook install
 ```
 
+### graceful-fs error 수정
+https://stackoverflow.com/questions/64211386/gitbook-cli-install-error-typeerror-cb-apply-is-not-a-function-inside-graceful
+
 ## 편집
 pcb repository 의 폴더 구조와 동일하게 폴더 및 제품명을 사용하여 markdown 문서를 작성합니다.
 각 폴더에는 별도의 `README.md` 파일을 생성합니다.
