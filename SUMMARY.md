@@ -210,6 +210,7 @@
     * [C2](controller/sub/c2/C2.md)
     * [D1](controller/sub/d1/D1.md)
     * [DMXS-8CH](controller/sub/dmxs-8ch/DMXS-8CH.md)
+    * [DMXS4039-100W](controller/sub/dmxs4039-100w/DMXS4039-100W.md)
     * [DMXS5028-SPI](controller/sub/dmxs5028-spi/DMXS5028-SPI.md)
     * [DMXS6540-C4-48V](controller/sub/dmxs6540-c4-48v/DMXS6540-C4-48V.md)
     * [DMXS7045-300W](controller/sub/dmxs7045-300w/DMXS7045-300W.md)
