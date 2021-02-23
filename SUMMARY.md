@@ -104,6 +104,7 @@
       * [LPC0100-6MD](display/lpc/lpc0100/lpc0100-6md/LPC0100-6MD.md)
       * [LPC0100-12FC](display/lpc/lpc0100/lpc0100-12fc/LPC0100-12FC.md)
     * [LPC0120](display/lpc/lpc0120/README.md)
+      * [LPC0120-10MC](display/lpc/lpc0120/lpc0120-10mc/LPC0120-10MC.md)
       * [LPC0120-24FC](display/lpc/lpc0120/lpc0120-24fc/LPC0120-24FC.md)
   * [LPR](display/lpr/README.md)
     * [LPR0040](display/lpr/lpr0040/README.md)
