@@ -121,6 +121,7 @@
     * [LSB0016](display/lsb/lsb0016/README.md)
       * [LSB0016-0495-5PC](display/lsb/lsb0016/lsb0016-0495-5pc/LSB0016-0495-5PC.md)
       * [LSB0016-0495-5PD](display/lsb/lsb0016/lsb0016-0495-5pd/LSB0016-0495-5PD.md)
+      * [LSB0016-0501-5PC](display/lsb/lsb0016/lsb0016-0501-5pc/LSB0016-0501-5PC.md)
     * [LSB0017](display/lsb/lsb0017/README.md)
       * [LSB0017-0498-30FD](display/lsb/lsb0017/lsb0017-0498-30fd/LSB0017-0498-30FD.md)
     * [LSB0023](display/lsb/lsb0023/README.md)
