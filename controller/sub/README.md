@@ -1,6 +1,7 @@
 * [C1](c1/C1.md)
 * [C2](c2/C2.md)
 * [D1](d1/D1.md)
+* [D3414-4941](d3414-4941/D3414-4941.md)
 * [DMXS-8CH](dmxs-8ch/DMXS-8CH.md)
 * [DMXS4039-100W](dmxs4039-100w/DMXS4039-100W.md)
 * [DMXS5028-SPI](dmxs5028-spi/DMXS5028-SPI.md)
