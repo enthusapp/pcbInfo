@@ -9,5 +9,5 @@
 * [MFPlyerLayout](mfplayer/MFPlayerLayout.md)
 * [MFPlyerTest](mfplayer/MFPlayerTest.md)
 * [MMBA](mmba/MMBA.md)
-* [OPMASTER10000](opmaster10000/OPMASTER10000.md)
+* [OPMaster](opmaster/OPMaster.md)
 * [OPTICAL-DMX6P](optical-dmx6p/OPTICAL-DMX6P.md)

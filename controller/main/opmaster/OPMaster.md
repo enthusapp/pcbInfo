@@ -1,7 +1,6 @@
-# OPMASTER10000
+# OPMaster
 
-## v1.6 2020/07/06 김주현
-[pcb@20eb651](https://github.com/enthusapp/pcb/commit/20eb651b088043d9d4225284e388413be67da3e6)
+## v1.6 2020/07/06 (OPMASTER10000) 김주현
 
 ### BOM 품목코드
 * H0000584
@@ -12,7 +11,7 @@
 
 ----------
 
-## v1.5 2019/12/13(OPMASTER10000E) 김주현
+## v1.5 2019/12/13 김주현
 
 ###  BOM 품목코드
 * H0000541
