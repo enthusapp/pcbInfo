@@ -1,7 +1,6 @@
 # LAC0169NG-9FC
 
 ## v1.0 2020/12/01 신민정
-[pcb@17c878e](https://github.com/enthusapp/pcb/commit/17c878e846fd22be68fe343f4e47fda32f72a51a)
 
 ### 생산 지시서 번호
 * 발주 번호 : M20201027-04, 05

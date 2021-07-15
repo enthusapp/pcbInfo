@@ -3,7 +3,6 @@
 [WDMX 사용법](WDMX-MANUAL.md)
 
 ## v3.2 2020/08/04 신민정
-[pcb@5efe319](https://github.com/enthusapp/pcb/commit/5efe319963750747f0a7c878f5a1b802f61f7da1)
 
 ### 생산 지시서 번호
 * 발주 번호 : X
@@ -86,6 +85,3 @@
 * CRMX TIMO 사용 무선 DMX 구현
 * 전자파 인증 목표
 * (https://github.com/enthusapp/pcb/issues/8)
-
-
-
