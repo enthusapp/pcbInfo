@@ -234,6 +234,7 @@
     * [D1](controller/sub/d1/D1.md)
     * [D3414-4941](controller/sub/d3414-4941/D3414-4941.md)
     * [DMXS-8CH](controller/sub/dmxs-8ch/DMXS-8CH.md)
+    * [8CH-SUB](controller/sub/dmxs-8ch/8CH-SUB.md)
     * [DMXS4039-100W](controller/sub/dmxs4039-100w/DMXS4039-100W.md)
     * [DMXS5028-SPI](controller/sub/dmxs5028-spi/DMXS5028-SPI.md)
     * [DMXS6540-C4-48V](controller/sub/dmxs6540-c4-48v/DMXS6540-C4-48V.md)
