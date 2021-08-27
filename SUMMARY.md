@@ -126,6 +126,8 @@
       * [LPR0226MI-126FC](display/lpr/lpr0226/lpr0226mi-126fc/LPR0226MI-126FC.md)
     * [LPR0264](display/lpr/lpr0264/README.md)
       * [LPR0264-144FC](display/lpr/lpr0264/lpr0264-144fc/LPR0264-144FC.md)
+    * [LPR49450](display/lpr/lpr49450/README.md)
+      * [LPR49450-96FC](display/lpr/lpr49450/lpr49450-96fc/LPR49450-96FC.md)
   * [LSB](display/lsb/README.md)
     * [LSB0016](display/lsb/lsb0016/README.md)
       * [LSB0016-0495-5PC](display/lsb/lsb0016/lsb0016-0495-5pc/LSB0016-0495-5PC.md)
