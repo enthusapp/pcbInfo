@@ -249,6 +249,7 @@
   * [CONNECTOR](controller/connector/README.md)
     * [CN5019](controller/connector/cn5019/CN5019.md)
     * [CN5019-FUSE](controller/connector/cn5019-fuse/CN5019-FUSE.md)
+    * [DMXConnector5-11660](controller/connector/dmxconnector5-11660/DMXConnector5-11660.md)
     * [DMXConnector26-50050](controller/connector/dmxconnector26-50050/DMXConnector26-50050.md)
     * [PROTOCOL-ADAPTER](controller/connector/protocol-adapter/PROTOCOL-ADAPTER.md)
     * [SENSOR6540-HUB](controller/connector/sensor6540-hub/SENSOR6540-HUB.md)
