@@ -1,6 +1,6 @@
 * [CN5019](cn5019/CN5019.md)
 * [CN5019-FUSE](cn5019-fuse/CN5019-FUSE.md)
-* [DMXConnector5-11660](dmxconnector5-11660/DMXConnector5-11660.md)
+* [DMXConnector6-13070](dmxconnector6-13070/DMXConnector6-13070.md)
 * [DMXConnector26-50050](dmxconnector26-50050/DMXConnector26-50050.md)
 * [PROTOCOL-ADAPTER](protocol-adapter/PROTOCOL-ADAPTER.md)
 * [SENSOR6540-HUB](sensor6540-hub/SENSOR6540-HUB.md)
