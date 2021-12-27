@@ -1,7 +1,6 @@
 # DMXM8852-SPI-6
 
 ## v1.0 2020/06/25 신민정
-[pcb@77a0183](https://github.com/enthusapp/pcb/commit/77a0183f29850b809271ddb11dbae7756579f722)
 
 ### 생산 지시서 번호
 * 발주 번호 : E20200619-02(인청 영종도 하늘도시)

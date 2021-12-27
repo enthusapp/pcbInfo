@@ -1,7 +1,6 @@
 # WDMX-DOWNLOADER
 
 ## v1.0 2020/11/13 신민정
-[pcb@a5e8d71](https://github.com/enthusapp/pcb/commit/a5e8d71d02e243028c4c483750a5510904b64bec)
 
 ### 생산 지시서 번호
 * 발주 번호 : X
