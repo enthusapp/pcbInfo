@@ -142,6 +142,8 @@
       * [LSB0017-0498-25FD](display/lsb/lsb0017/lsb0017-0498-25fd/LSB0017-0498-25FD.md)
       * [LSB0017-0498-30FD](display/lsb/lsb0017/lsb0017-0498-30fd/LSB0017-0498-30FD.md)
     * [LSB0023](display/lsb/lsb0023/README.md)
+      * [LSB0023-0498-10PC](display/lsb/lsb0023/lsb0023-0498-10pc/LSB0023-0498-10PC.md)
+      * [LSB0023-0498-10PD](display/lsb/lsb0023/lsb0023-0498-10pd/LSB0023-0498-10PD.md)
       * [LSB0023-0498-20FWD](display/lsb/lsb0023/lsb0023-0498-20fwd/LSB0023-0498-20FWD.md)
       * [LSB0023-0498-25FD](display/lsb/lsb0023/lsb0023-0498-25fd/LSB0023-0498-25FD.md)
       * [LSB0023-0498-25MD](display/lsb/lsb0023/lsb0023-0498-25md/LSB0023-0498-25MD.md)
