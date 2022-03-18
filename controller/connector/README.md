@@ -7,5 +7,6 @@
 * [DMXMConnector-9030](dmxmconnector-9030/DMXMConnector-9030.md)
 * [PROTOCOL-ADAPTER](protocol-adapter/PROTOCOL-ADAPTER.md)
 * [SENSOR6540-HUB](sensor6540-hub/SENSOR6540-HUB.md)
+* [TEST-DMX7](test-dmx7/TEST-DMX7.md)
 * [WDMX](wdmx/WDMX.md)
-* [WDMX-DOWNLOADER](wdmx/WDMX-DOWNLOADER.md)
+* [WDMX-DOWNLOADER](wdmx-downloader/WDMX-DOWNLOADER.md)
