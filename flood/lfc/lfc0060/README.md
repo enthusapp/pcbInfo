@@ -1,1 +1,0 @@
-* [LFC0060-3MD](lfc0060-3md/LFC0060-3MD.md)
